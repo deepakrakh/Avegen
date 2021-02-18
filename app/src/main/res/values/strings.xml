@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Avegen</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="avegen_atm">Avegen ATM Machine</string>
+    <string name="subtract">Withdraw</string>
+    <string name="add">Deposit</string>
+    <string name="amount">₹ 1000</string>
+    <string name="your_available_balance">Your Available Balance</string>
+    <string name="credit"> Credited to your account</string>
+    <string name="rs">₹ </string>
+    <string name="insufficient_balance">Sorry insufficient balance to withdraw money from your account.</string>
+    <string name="exceeded_limit">Withdraw limit would be exceeded.</string>
+    <string name="lower_amount">Enter an amount lower than ₹ </string>
+    <string name="lower_amt">Enter an amount lower than ₹ 1,00,000</string>
+</resources>
